@@ -14,11 +14,16 @@ Constraints
 
 # Input
 3 
+
 12345
+
 31203
+
 2123
 
 # Output
 15
+
 9
+
 8
