@@ -9,13 +9,16 @@ For each test case, calculate the sum of digits of N, and display it in a new li
 Constraints
 1 ≤ T ≤ 1000
 1 ≤ N ≤ 1000000
-Example
-Input
+
+# Example
+
+# Input
 3 
 12345
 31203
 2123
-Output
+
+# Output
 15
 9
 8
