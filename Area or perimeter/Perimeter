@@ -1,0 +1,13 @@
+l=int(input())
+b=int(input())
+area=l*b
+perimeter=2*(l+b)
+if(perimeter>area):
+    print("Peri")
+    print(perimeter)
+elif(perimeter<area):
+    print("Area")
+    print(area)
+elif(perimeter==area):
+    print("Eq")
+    print(area)
